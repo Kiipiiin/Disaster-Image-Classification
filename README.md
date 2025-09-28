@@ -4,7 +4,7 @@ This project focuses on classifying disaster images into multiple categories usi
 
 
 ## Dataset
-- Dataset Link: https://drive.google.com/drive/folders/1pDYH-m2dHS_bZ34VBslYP8Xi9NshIZH_
+- Dataset Link: https://drive.google.com/drive/folders/1pDYH-m2dHS_bZ34VBslYP8Xi9NshIZH_?usp=sharing
 - train: contains training images.
 - val: contains validation images.
 - test: contains testing images.
